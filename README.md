@@ -18,7 +18,7 @@ REST сервис. В целях обеспечения безопасности
 Приложение реализует backend функционал интернет-чата с использованием REST API
 Технологии : Spring Boot, Spring Data, PostgreSQL, JWT, Maven, Git.
 
-4)[car_accident]https://github.com/EvgenyShestakov/job4j_car_accident)
+4)[car_accident](https://github.com/EvgenyShestakov/job4j_car_accident) 
 В системе существуют две роли. Обычные пользователи и автоинспекторы.
 Пользователь добавляет описание автонарушение.
 В заявлении указывает: адрес, номер машины, описание нарушения и фотографию нарушения.
