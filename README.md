@@ -11,7 +11,7 @@ REST сервис. В целях обеспечения безопасности
 
 2)[chat](https://github.com/EvgenyShestakov/job4j_chat) 
 Реализация Rest API для функционирования чата
-Технологии : Spring, Postgres, JWT, Docker, Maven, Postman;
+Технологии : Spring, Postgres, JWT, Maven, Postman;
 
 3)[forum](https://github.com/EvgenyShestakov/job4j_chat) 
 Реализация Rest API с использованием Spring Boot. 
